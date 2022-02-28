@@ -1,5 +1,7 @@
 # BigIntAddition
 
+Finds result of sum of 2 int64 numbers using bit operations. Detects overflow and underflow.
+
 Before build, please update path to the BOOST folder in CMakeLists.txt
 
 Usage:
